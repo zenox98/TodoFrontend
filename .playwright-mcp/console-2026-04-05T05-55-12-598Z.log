@@ -1,0 +1,6 @@
+[     438ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/0fj1_next_dist_02rr1v5._.js:2431
+[     616ms] [LOG] [HMR] connected @ http://localhost:3000/_next/static/chunks/0fj1_next_dist_02rr1v5._.js:2431
+[  170771ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/0fj1_next_dist_02rr1v5._.js:2431
+[  171819ms] [LOG] [Fast Refresh] done in 1148ms @ http://localhost:3000/_next/static/chunks/0fj1_next_dist_02rr1v5._.js:2431
+[  172007ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "new-password"): (More info: https://goo.gl/9p2vKq) %o @ http://localhost:3000/register:0
+[  172007ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "new-password"): (More info: https://goo.gl/9p2vKq) %o @ http://localhost:3000/register:0
