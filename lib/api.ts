@@ -1,6 +1,6 @@
 import { cookies } from 'next/headers';
 
-export const API_BASE_URL = process.env.NEXT_PUBLIC_API_BASE_URL || 'http://localhost:8000/api';
+export const API_BASE_URL = process.env.NEXT_PUBLIC_API_BASE_URL || 'https://todobackend-5j24.onrender.com/api';
 
 export async function getAccessToken() {
   const cookieStore = await cookies();

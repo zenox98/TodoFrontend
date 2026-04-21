@@ -25,7 +25,7 @@ export async function getTodos(): Promise<{ success: boolean; todos?: Todo[]; er
     headers: {
       'Authorization': `Bearer ${session.accessToken}`,
     },
-    next: { tags: ['todos'] }, // Tag for revalidation
+    cache: 'no-store',
   });
 
   if (!response.ok) {
